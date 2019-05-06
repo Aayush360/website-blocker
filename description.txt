@@ -1,0 +1,5 @@
+this project contains the source code for blocking the website you don't want to get access to while working.
+you have to make a change in the hosts file, adding information about the ip address and the host name
+here time and datetime module is used 
+also concept of file handling is used, for making an append in the file.
+hope this one is easy to understand,, and I'll let you know that i am learning as well.. :):) happy coding hours
